@@ -2,8 +2,8 @@ main{width:90%;text-align:center;margin:0 auto;}
 
 .mainNav{
   height: 1px;
-  margin-top: 100px;
-  margin-left: 100px;
+  margin-top: 50px;
+  text-align: center;
 
   }
 
@@ -34,7 +34,7 @@ main{width:90%;text-align:center;margin:0 auto;}
   }
 
 .section1{background-color:yellow;
-padding-top: 20px;}
+padding-top: 30px;}
 
 .section1 img{
   height: 200px;
