@@ -3,9 +3,7 @@ main{width:90%;text-align:center;margin:0 auto;}
 .mainNav{
   height: 1px;
   margin-top: 100px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+  margin-left: 100px;
 
   }
 
@@ -30,16 +28,17 @@ main{width:90%;text-align:center;margin:0 auto;}
 
 
   .mainNav ul li a:hover {
-    padding: 20px;
+    padding: 25px;
     background-color: pink;
     color: white;
   }
 
-.section1{background-color:yellow;}
+.section1{background-color:yellow;
+padding-top: 20px;}
 
 .section1 img{
   height: 200px;
-  width: 350px;
+  width: 400px;
 }
 
 .section2{background-color:red;}
@@ -49,7 +48,7 @@ main{width:90%;text-align:center;margin:0 auto;}
   width: 300px;
 }
 
-.section3{background-color: white;}
+.section3{background-color: pink;}
 
 .section2 img{
   height: 200px;
