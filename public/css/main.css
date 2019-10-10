@@ -1,15 +1,15 @@
 main{width:90%;text-align:center;margin:0 auto;}
 
-section1{background-color:yellow;}
+.section1{background-color:yellow;}
 
-section1 img{
+.section1 img{
   height: 100px;
   width: 200px;
 }
 
-section2{background-color:red;}
+.section2{background-color:red;}
 
-section3{background-color: white;}
+.section3{background-color: white;}
 
 h1{color: #296d98;font-size: 30px;}
 
