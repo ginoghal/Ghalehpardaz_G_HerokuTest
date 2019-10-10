@@ -1,10 +1,42 @@
 main{width:90%;text-align:center;margin:0 auto;}
 
+.mainNav{
+  height: 1px;
+  margin-top: 50px;
+
+  }
+
+  .mainNav ul{
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .mainNav ul li {
+    font-size: 10px;
+    display: inline;
+    cursor: pointer;
+    margin-right:1px;
+  }
+
+  .mainNav ul li a
+  {
+    color: black;
+    padding: 20px;
+    text-decoration: none;
+  }
+
+
+  .mainNav ul li a:hover {
+    padding: 20px;
+    background-color: black;
+    color: white;
+  }
+
 .section1{background-color:yellow;}
 
 .section1 img{
   height: 200px;
-  width: 300px;
+  width: 350px;
 }
 
 .section2{background-color:red;}
@@ -16,8 +48,13 @@ main{width:90%;text-align:center;margin:0 auto;}
 
 .section3{background-color: white;}
 
+.section2 img{
+  height: 200px;
+  width: 300px;
+}
+
 h1{color: #296d98;font-size: 30px;}
 
-button{ height: 20px;width: 70px;font-size: 10px;text-align: center;margin-left: auto;margin-right: auto; display: block;}
+button{ height: 20px;width: 100px;font-size: 10px;text-align: center;margin-left: auto;margin-right: auto; display: block;}
 
 /*# sourceMappingURL=main.css.map */
