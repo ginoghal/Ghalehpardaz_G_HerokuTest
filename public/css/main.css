@@ -2,39 +2,35 @@ main{width:90%;text-align:center;margin:0 auto;}
 
 @media screen and (min-width: 375px) {
 
-  .mainNav{
-    height: 1px;
-    margin-top: 10px;
+
+  .mainNav {
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  .mainNav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
     text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
 
-    }
+  .mainNav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
 
-    .mainNav ul{
-      padding: 0px;
-      margin: 0px;
-    }
+  .mainNav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
 
-    .mainNav ul li {
-      font-size: 14px;
-      display: inline;
-      cursor: pointer;
-      margin-right:1px;
-    }
-
-    .mainNav ul li a
-    {
-      color: black;
-      padding: 15px;
-      text-decoration: none;
-    }
-
-
-    .mainNav ul li a:hover {
-      padding: 25px;
-      background-color: pink;
-      color: white;
-    }
-
+  .mainNav .icon {
+    display: none;
+  }
 
     .section1{background-color:yellow;
     padding-top: 30px;}
