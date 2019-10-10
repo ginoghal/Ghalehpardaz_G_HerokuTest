@@ -5,7 +5,7 @@ fav games both at home and on the go!
 
 App created by Gino Ghalehpardaz and is deployed using Heroku Link (attached in file)
 
-If you cannot find the file simply enter https://damp-scrubland-42095.herokuapp.com into your browser of choice.
+If you cannot find the file simply enter https://ghalehpardaz-g-herokutest.herokuapp.com/ into your browser of choice.
 
 Developped on October 9, 2019
 
