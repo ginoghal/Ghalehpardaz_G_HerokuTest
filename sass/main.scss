@@ -1,9 +1,17 @@
-main {
-    width: 90%;
-    text-align: center;
-    margin: 0 auto;
-}
+main
+  width: 90%
+  text-align: center
+  margin: 0 auto
+  background-color: grey
 
-h1 { color: red;
-  font-size: 20px;
-}
+h1
+  color: red
+  font-size: 40px
+
+button
+  height: 20px
+  width: 50px
+  font-size: 20px
+  text-align: center
+  margin-left: auto
+  margi-right: auto
